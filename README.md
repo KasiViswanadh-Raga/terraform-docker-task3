@@ -33,22 +33,22 @@ Provision a *Docker container* using *Terraform* as part of the DevOps Internshi
 ## 📸 Screenshots
 
 ### 1. Terraform Init
-![Terraform Init](screenshot1-init.png)
+![Terraform Init](Screenshot1-init.png)
 
 ### 2. Terraform Plan
-![Terraform Plan](screenshot2-plan.png)
+![Terraform Plan](Screenshot2-plan.png)
 
 ### 3. Terraform Apply
-![Terraform Apply](screenshot3-apply.png)
+![Terraform Apply](Screenshot3-apply.png)
 
 ### 4. Docker Container Running
-![Docker Container Running](screenshot4-running.png)
+![Docker Container Running](Screenshot4-running.png)
 
 ### 5. Terraform State
-![Terraform State](screenshot5-state.png)
+![Terraform State](Screenshot5-state list.png)
 
 ### 6. Terraform Destroy
-![Terraform Destroy](screenshot6-destroy.png)
+![Terraform Destroy](Screenshot6-destroy.png)
 
 ---
 
@@ -61,8 +61,6 @@ terraform apply
 docker ps
 terraform state list
 terraform destroy
-
-
 ---
 
 ✅ Outcome
