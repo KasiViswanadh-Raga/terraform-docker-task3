@@ -45,7 +45,7 @@ Provision a *Docker container* using *Terraform* as part of the DevOps Internshi
 ![Docker Container Running](Screenshot4-running.png)
 
 ### 5. Terraform State
-![Terraform State](Screenshot5-state list.png)
+![Terraform State List](Screenshot5-statelist.png)
 
 ### 6. Terraform Destroy
 ![Terraform Destroy](Screenshot6-destroy.png)
